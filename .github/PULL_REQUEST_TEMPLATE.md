@@ -17,4 +17,3 @@
 - [ ] `npm run build` passes
 - [ ] `npm run demo` and `npm run smoke` pass
 - [ ] CHANGELOG updated (for behavioral or packaging changes)
-- [ ] No real PHI in any test fixture or sample data (synthetic only)

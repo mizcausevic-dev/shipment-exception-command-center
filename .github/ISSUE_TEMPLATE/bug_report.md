@@ -27,4 +27,4 @@ labels: ["bug"]
 
 ## Logs / screenshots
 
-<!-- Paste any relevant output. Never include real PHI. -->
+<!-- Paste any relevant output. -->
